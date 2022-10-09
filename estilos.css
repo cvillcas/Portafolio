@@ -686,6 +686,20 @@ footer a{
 }
 
 
+/* RESPONSIVE PARA MOVILES */
+
+    @media screen and (max-width:500px){
+
+        body{
+            overflow-x: hidden;
+        }
+
+    }
+        
+    
+
+
+
 
 
         
