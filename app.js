@@ -1,5 +1,11 @@
 // FUNCION QUE LE APLICA ESTILO AL MENU SELECCIONADO  
 
+
+function carga(){
+   
+}
+
+
 function seleccionar (link){
   
    let opciones = document.querySelectorAll("#links a ");
